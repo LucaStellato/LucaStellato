@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Ciao, sono Luca  
+### Front-End Developer con una forte passione per la crescita continua
 
-<!--
-**LucaStellato/LucaStellato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi piace trasformare idee in interfacce funzionali e curate, mantenendo un approccio orientato alla semplicità e all’apprendimento costante di nuove tecnologie.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Social & Contatti
+- **LinkedIn:** https://www.linkedin.com/in/luca-stellato-14b0ba372/
+- **Email:** lucastellato435@gmail.com
+
+---
+
+## 🛠 Tech Stack
+
+### **Front-End**
+- HTML  
+- CSS  
+- Bootstrap  
+- React  
+- JavaScript  
+- TypeScript  
+
+### **Back-End**
+- Node.js  
+- Express  
+
+---
+
+## 🚀 Progetti in evidenza
+
+### **StarDisk – React**
+Realizzazione in team di un’applicazione React per l’esplorazione di contenuti multimediali, contribuendo allo sviluppo del front‑end con gestione delle API, funzioni di ricerca e filtraggio e pagine dedicate ai dettagli.
+🔗 *Link al repository:* [Link repo ](https://github.com/LucaStellato/stardisk_react)]
+
+### **Progetto Finale – Specializzazione Front-End**
+Progetto conclusivo del percorso di specializzazione, focalizzato su architettura front-end  
+🔗 *Link al repository:* [Link repo](https://github.com/LucaStellato/progetto-finale-spec-frontend-front)
+
+---
+
+## 📈 Obiettivi
+Continuare a crescere come sviluppatore front-end, approfondendo framework moderni, ottimizzazione delle performance e best practice per applicazioni scalabili.
